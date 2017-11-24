@@ -24,7 +24,7 @@
 Зарегистрироватся<br>
 Откройте database/migrations/create_users_table.php и добавьте в миграцию:<br>
 `$table->bigInteger('is_admin')->default(0);`
-- ** Удаляем все мигрированные таблицы 
+-- Удаляем все мигрированные таблицы 
 `php artisan migrate:reset` 
 И мигрируем новые 
 `php artisan migrate`

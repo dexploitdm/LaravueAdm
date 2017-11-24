@@ -14,7 +14,7 @@
 
 ## Установка
 
-<b style="color: green">git clone https://github.com/dexploitdm/LaravueAdm.git</b>
+[git clone https://github.com/dexploitdm/LaravueAdm.git]
 
 ## Laravel Sponsors
 

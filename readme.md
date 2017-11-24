@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://laravel.com/assets/img/components/logo-laravel.svg">
-<img src="https://sentry.io/_assets/logos/vue-wordmark-3eed5d97e4588a2d4f77f7f331635f8fb238d06c7e8044b1720216058a022e2d.svg" style="max-width:7%">
+<img src="http://www.programwitherik.com/content/images/2017/01/87ow.png" style="max-width:50%">
 </p>
 
 <p align="center">

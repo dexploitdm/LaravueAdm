@@ -14,7 +14,7 @@
 
 ## Установка
 
-[git clone https://github.com/dexploitdm/LaravueAdm.git]
+`git clone https://github.com/dexploitdm/LaravueAdm.git`
 
 ## Laravel Sponsors
 

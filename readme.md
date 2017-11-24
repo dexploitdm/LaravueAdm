@@ -1,6 +1,6 @@
 <p align="center">
-<img src="https://laravel.com/assets/img/components/logo-laravel.svg">
-<img src="http://staronsoftware.com/images/logos/VueLogo.png">
+<img src="https://pp.userapi.com/c841436/v841436793/3c3d0/8emN4vV28mM.jpg">
+
 </p>
 
 <p align="center">

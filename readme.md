@@ -14,8 +14,8 @@
 
 ## Установка
 
-`git clone https://github.com/dexploitdm/LaravueAdm.git`
-`composer install`
+`git clone https://github.com/dexploitdm/LaravueAdm.git`<hr>
+`composer install`<hr>
 `yarn install`
 
 ## Laravel Sponsors

@@ -21,22 +21,20 @@
 ## Настройка
 `php artisan migrate`<hr>
 `php artisan make:auth`<hr>
-Зарегистрироватся<br>
-Откройте database/migrations/create_users_table.php и добавьте в миграцию:<br>
+- Зарегистрироватся<br>
+- Откройте database/migrations/create_users_table.php и добавьте в миграцию:<br>
 `$table->bigInteger('is_admin')->default(0);`
-- Удаляем все мигрированные таблицы 
+- Удаляем все мигрированные таблицы<br>
 `php artisan migrate:reset` 
-И мигрируем новые 
+- мигрируем новые <br>
 `php artisan migrate`
+- В БД, в таблице'Users' появилась колонка is_admin, с значением 0 которое нужно поменять на 1. 
 
+## Запуск
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+`yarn run watch`<hr>
+`php artisan serve`<br>
+- Результат `http://localhost:8000/`
 
 ## License
 
